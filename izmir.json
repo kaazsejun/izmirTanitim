@@ -1,0 +1,43 @@
+{ "izmir" : [{
+	{
+		"yer":"İzmir Saat Kulesi";
+		"tarih":"1901";
+		"aciklama":"Kule 25 metre boyunda ve dört çeşmeye sahiptir";
+		"aciklamadetay":"Saat Kulesi 1901 yılında Padişah Abdülhamit’in tahta çıkmasının 25. yıl olması sebebiyle ona ithafen Sadrazam Mehmet Sait Paşa’nın önderliğinde Fransız mimar tarafından yapılan tarihi bir kuledir. Bu kule 25 metre boyunda ve dört çeşmeye sahiptir. Taş işçilikteki ince detaylar ve mimari yapısı saat kulesini önemli bir gezi noktası yapmaktadır.";
+		"fotourl":"https://raw.githubusercontent.com/kaazsejun/izmirTanitim/master/kule.jpg";
+	},
+	{
+		"yer":"İzmir Konak Meydanı";
+		"tarih":"-";
+		"aciklama":"Turistik mekanların birçoğu bu meydanda toplanmaktadır. ";
+		"aciklamadetay":"İzmir’in saat kulesi, sahil boyunca uzanan kordon boyu, Konak Yalı Cami, birçok hediyelik eşyanın satıldığı Kemeraltı çarşısı, sanatseverler için İzmir Resim ve Heykel Müzesi, Basmane Tren Garı, İzmir Atatürk Evi ve Müzesi gibi görülmesi gereken yerler İzmir Konakta yer almaktadır.";
+		"fotourl":"https://raw.githubusercontent.com/kaazsejun/izmirTanitim/master/konakmeydan.jpg";
+	},
+	{
+		"yer":"Tarihi Asansör";
+		"tarih":"1907";
+		"aciklama":"Normalde 155 basamak çıkılarak ulaşılmaya çalışılan cadde asansörle kısa zamanda çıkılmaktadır.";
+		"aciklamadetay":"1907 senesinde Yahudi işadamı Nesai Levi Bayraklı tarafından 55 metre yükseklikte bulunan Halil Rıfat Paşa Caddesine çıkmayı kolaylaştırmak için yaptırılmıştır. Normalde 155 basamak çıkılarak ulaşılmaya çalışılan bu cadde asansörle kısa zamanda çıkılmaktadır. Tarihi asansörün çıkışında muhteşem deniz manzarasını seyredebilir, gezinize mola vererek birer kahve yudumlayabilirsiniz.";
+		"fotourl":"https://raw.githubusercontent.com/kaazsejun/izmirTanitim/master/asansor.jpg";
+	},
+	{
+		"yer":"Tarihi Kemeraltı Çarşısı ";
+		"tarih":"-";
+		"aciklama":"Konak meydanında yer alan tarihi bir çarşı olan Tarihi Kemeraltı çarşısı.";
+		"aciklamadetay":"Konak meydanında yer alan tarihi bir çarşı olan Tarihi Kemeraltı çarşısı. Her dönem kalabalık olan bu çarşı uygun kıyafet satın almak, arkadaşlarınıza hediyelik bir şeyler almak için İzmir’de gezilecek yerler kategorisinde yer alan güzel bir mekandır. İçerisinde oturup soluklanacağınız güzel kahve içeceğiniz mekanlarda yok değil.";
+		"fotourl":"https://raw.githubusercontent.com/kaazsejun/izmirTanitim/master/kemeralti.jpg";
+	},
+	{
+		"yer":"Kızlarağası Hanı";
+		"tarih":"-";
+		"aciklama":"Kemeraltı çarşısının içinde yer alan Kızlarağası Hanı önemli bir dinlence noktasıdır.";
+		"aciklamadetay":"Çay ve kahve keyfi yapmak için Kemeraltı çarşısının içinde yer alan Kızlarağası Hanı önemli bir dinlence noktasıdır. Burada kahvenizi yudumlarken hediyelik birkaç bir şey almaktan kendinizi alamayabilirsiniz.";
+		"fotourl":"https://raw.githubusercontent.com/kaazsejun/izmirTanitim/master/han.jpg";
+	},
+	{
+		"yer":"Dario Moreno Sokağı";
+		"tarih":"-";
+		"aciklama":"İzmir’in tarihi asansör binasına giderken içerisinden geçmiş olduğunuz sokağın ismi Dario Moreno sokağıdır.";
+		"aciklamadetay":"İzmir’in tarihi asansör binasına giderken içerisinden geçmiş olduğunuz sokağın ismi Dario Moreno sokağıdır. Dar bir sokak olan Dario Moreno, 1921 yılında İzmir’de doğan Musevi asıllı ünlü gitarist Dario Moreno isminden gelmektedir. Dario Moreno sokağında ilerlerken hem sağ hem de sol tarafta bulunan tarihi ihtişamlı Rum evlerini seyre dalabilir, tarihi güzellikleri içinize çekebilirsiniz.";
+		"fotourl":"https://raw.githubusercontent.com/kaazsejun/izmirTanitim/master/Dario.jpg";
+	}
