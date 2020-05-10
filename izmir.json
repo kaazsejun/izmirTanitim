@@ -1,4 +1,4 @@
-{ "izmir" : [{
+{ "izmir" : [
 	{
 		"yer":"İzmir Saat Kulesi";
 		"tarih":"1901";
@@ -41,3 +41,4 @@
 		"aciklamadetay":"İzmir’in tarihi asansör binasına giderken içerisinden geçmiş olduğunuz sokağın ismi Dario Moreno sokağıdır. Dar bir sokak olan Dario Moreno, 1921 yılında İzmir’de doğan Musevi asıllı ünlü gitarist Dario Moreno isminden gelmektedir. Dario Moreno sokağında ilerlerken hem sağ hem de sol tarafta bulunan tarihi ihtişamlı Rum evlerini seyre dalabilir, tarihi güzellikleri içinize çekebilirsiniz.";
 		"fotourl":"https://raw.githubusercontent.com/kaazsejun/izmirTanitim/master/Dario.jpg";
 	}
+]
